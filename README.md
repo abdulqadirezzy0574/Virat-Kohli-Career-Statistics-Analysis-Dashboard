@@ -7,3 +7,21 @@ By transforming raw cricket data into meaningful visualizations, this project de
 
 ## Dataset Used
 - <a href="https://github.com/abdulqadirezzy0574/Virat-Kohli-Career-Statistics-Analysis-Dashboard/blob/main/Virat%20Kohli%20Cricket.csv">Dataset</a>
+
+## Questions KPI's
+- <a href="">KPI's</a>
+
+## KPi's Solution in MySql
+- <a href="">Solution</a>
+
+## Power Bi Interactive Dashboard
+- <a href="">Dashboard</a>
+
+## Project Findings
+- <a href="">Project Findings</a>
+
+
+
+
+
+
