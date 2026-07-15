@@ -6,3 +6,4 @@ The objective of this project is to analyze Virat Kohli's international cricket 
 By transforming raw cricket data into meaningful visualizations, this project demonstrates the use of SQL for data analysis and Power BI for dashboard creation, helping uncover performance patterns and career milestones through data-driven insights.
 
 ## Dataset Used
+- <a href="https://github.com/abdulqadirezzy0574/Virat-Kohli-Career-Statistics-Analysis-Dashboard/blob/main/Virat%20Kohli%20Cricket.csv">Dataset</a>
